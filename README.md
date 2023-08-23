@@ -42,7 +42,6 @@ For Frontend.
 ```shell
 cd public
 yarn start
-```
 
 
 
