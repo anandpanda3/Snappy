@@ -43,7 +43,7 @@ For Frontend.
 cd public
 yarn start
 ```
-For Backend.
+
 
 
 
