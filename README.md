@@ -39,7 +39,7 @@ yarn
 We are almost done, Now just start the development server.
 
 For Frontend.
-```shell
+
 
 
 
