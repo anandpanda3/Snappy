@@ -36,7 +36,7 @@ cd ..
 cd public
 yarn
 ```
-We are almost done, Now just start the development server.
+
 
 
 
