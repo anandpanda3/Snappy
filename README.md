@@ -35,7 +35,7 @@ yarn
 cd ..
 cd public
 yarn
-```
+
 
 
 
