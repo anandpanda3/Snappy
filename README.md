@@ -33,8 +33,7 @@ Now install the dependencies
 cd server
 yarn
 cd ..
-cd public
-
+cd 
 
 
 
