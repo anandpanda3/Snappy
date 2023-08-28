@@ -34,8 +34,6 @@ cd server
 yarn
 cd ..
 cd public
-yarn
-
 
 
 
