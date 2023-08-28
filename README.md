@@ -32,7 +32,7 @@ Now install the dependencies
 ```shell
 cd server
 yarn
-cd 
+
 
 
 
