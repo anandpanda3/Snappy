@@ -30,7 +30,7 @@ cd ..
 
 Now install the dependencies
 ```shell
-cd server
+cd 
 
 
 
