@@ -26,7 +26,6 @@ cd ..
 cd server
 mv .env.example .env
 cd ..
-```
 
 
  
