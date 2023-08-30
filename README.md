@@ -29,7 +29,7 @@ cd ..
 ```
 
 Now install the dependencies
-```shell
+```
  
 
 
