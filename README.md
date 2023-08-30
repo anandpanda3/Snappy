@@ -28,7 +28,7 @@ mv .env.example .env
 cd ..
 ```
 
-Now install the dependencies
+
  
 
 
